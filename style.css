@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    text-align:center;
+}
+p{
+   font-size:20px;
+   color:maroon; 
+   border:2px double red;
+   border-radius:4px;
+}
